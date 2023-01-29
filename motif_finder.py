@@ -1,6 +1,3 @@
-# enumerate sequences based on their position weight matrix
-# ie replace maybe a highish prob. of A or M
-# decide using manhattan dist? 
 import numpy as np
 from collections import Counter
 import sys 
